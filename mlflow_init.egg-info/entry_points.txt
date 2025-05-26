@@ -1,0 +1,2 @@
+[console_scripts]
+mlflow-init = mlflow_init.cli:main

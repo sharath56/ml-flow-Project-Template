@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+mlflow_init/__init__.py
+mlflow_init/cli.py
+mlflow_init.egg-info/PKG-INFO
+mlflow_init.egg-info/SOURCES.txt
+mlflow_init.egg-info/dependency_links.txt
+mlflow_init.egg-info/entry_points.txt
+mlflow_init.egg-info/top_level.txt
