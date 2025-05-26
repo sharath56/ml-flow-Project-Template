@@ -1,21 +1,19 @@
 
-````markdown
-# MLflow Project Template
+## MLflow Project Template
 
 This is a fully automated MLflow project scaffold designed for MLOps workflows.  
 It provides a standardized directory structure, starter files, and automation to jump-start your machine learning project with best practices.
 
----
 
-## 🚀 Getting Started
 
 ### Install the CLI tool
 
 If you have this tool packaged as a Python package (e.g., `mlflow-init`), install it with:
 
+```
 pip install mlflow-init
+```
 
-````
 
 Or, if you have the `cli.py` script, run it directly with:
 
